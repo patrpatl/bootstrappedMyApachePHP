@@ -13,5 +13,9 @@ Modernizing Apache's File Indexer UI using Bootstrap 5.0 and PHP. bootstrappedMy
 ### Comparison
 Default Apache:
 <img width="1919" height="944" alt="image" src="https://github.com/user-attachments/assets/3909598f-e1b5-4dcf-9e96-9b7f88ff27f5" />
-bootstrappedMyApachePHP:
-<img width="1919" height="939" alt="image" src="https://github.com/user-attachments/assets/d73836bb-6332-4487-bb32-86ccea4ea4e5" />
+bootstrappedMyApachePHP: <br>
+<img width="400px" height="auto" alt="Screenshot 2026-06-12 184825" src="https://github.com/user-attachments/assets/8729849a-be49-4cb2-9b6c-5d4291e232d9" />
+<img width="400px" height="auto" alt="Screenshot 2026-06-12 184711" src="https://github.com/user-attachments/assets/44e3f27d-7f21-42e3-83ae-6f8393457eae" />
+<img width="400px" height="auto" alt="Screenshot 2026-06-12 184655" src="https://github.com/user-attachments/assets/940e451b-779f-4dd6-8688-2e9a3d8eab38" />
+<img width="400px" height="auto" alt="Screenshot 2026-06-12 184647" src="https://github.com/user-attachments/assets/fa03a1a7-1de1-4fae-8276-742a3b7a2bf0" />
+
